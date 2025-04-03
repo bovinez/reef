@@ -2,7 +2,8 @@ WARNING - This is a work in progress, it may not work or require significant tin
 
 # Reef Edge TPU Object Detection Server
 
-A production-ready Flask server for real-time object detection using the Edge TPU (USB or PCI/M.2). Features automatic device detection, power management, performance monitoring, and robust error handling.
+A production-ready Flask server for real-time object detection using the Edge TPU (USB or PCI/M.2). Following several months of testing the M.2 TPU is where this project is focused, for various reasons the USB TPU is a world of trouble with this application and is going to be out of scope for further development. 
+Features automatic device detection, power management, performance monitoring, and robust error handling.
 
 ## Prerequisites
 
